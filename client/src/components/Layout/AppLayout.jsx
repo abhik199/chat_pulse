@@ -36,8 +36,6 @@ const AppLayout = () => (WrapperComponent) => {
             3
           </Grid>
         </Grid>
-
-        <div>Footer</div>
       </>
     );
   };
